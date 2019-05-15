@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoAppLite", "src\TodoAppLite.csproj", "{6F4C7514-8A26-4ECB-B8B7-8B5A219F1425}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F6432FE8-2E25-43C4-A79D-6330A2D2DCD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F4C7514-8A26-4ECB-B8B7-8B5A219F1425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F4C7514-8A26-4ECB-B8B7-8B5A219F1425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F4C7514-8A26-4ECB-B8B7-8B5A219F1425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F4C7514-8A26-4ECB-B8B7-8B5A219F1425}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6F4C7514-8A26-4ECB-B8B7-8B5A219F1425} = {F6432FE8-2E25-43C4-A79D-6330A2D2DCD1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B60C8C3-3BC8-46B3-9BEA-6D10FF580C81}
+	EndGlobalSection
+EndGlobal
